@@ -5,16 +5,23 @@
 [![CV](https://img.shields.io/badge/CV-Download%20PDF-00509E?style=flat&logo=adobeacrobatreader&logoColor=white)](https://ernestwting.poke.site/cv.pdf)
 [![Website](https://img.shields.io/badge/Website-ernestwting.poke.site-000000?style=flat&logo=githubpages&logoColor=white)](https://ernestwting.poke.site)
 
-**Applied Computational Mathematics & Economics @ Caltech**[cite: 2]  
-Focusing on educational analytics, psychometrics (Item Response Theory & Rasch Modeling), multi-agent LLMs, and computational mathematics[cite: 2].
+**Applied Computational Mathematics & Economics @ Caltech**  
+Focusing on educational analytics, psychometrics (Item Response Theory & Rasch Modeling), multi-agent LLMs, and computational mathematics.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernestwting/)
+[![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=LaTeX&logoColor=white)](https://www.latex-project.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)](https://www.r-project.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)](https://plotly.com/)
 
 ---
 
 ## Featured Research & Projects
 
 ### [Moodle/STACK Interactive Quiz Analytics Hub](https://interactive-analytics-stack-data.streamlit.app/)
-*An interactive web app built to extract actionable teaching insights from raw Moodle/STACK math assessment exports.*[cite: 2]
-* **Tech Stack:** `Python`, `Streamlit`, `Plotly`, `Pandas`, `SciPy`, `ReportLab`[cite: 2]
+*An interactive web app built to extract actionable teaching insights from raw Moodle/STACK math assessment exports.*
+* **Tech Stack:** `Python`, `Streamlit`, `Plotly`, `Pandas`, `SciPy`, `ReportLab`
 * **Key Features:**
   * Extracts facility ($F_i$) and discrimination ($D_i$) difficulty indices across student best vs. all-attempt cohorts.
   * Visualizes Potential Response Tree (PRT) failure modes via interactive heatmaps and student-by-question performance matrices.
@@ -22,40 +29,40 @@ Focusing on educational analytics, psychometrics (Item Response Theory & Rasch M
   * Generates single-click, full-length PDF reports complete with dynamic analytical commentary and vector charts.
 
 ### Multi-Agent LLMs for STACK Assessment & Curriculum Generation
-*Developing automated agent workflows to generate validated STACK questions and instructional content for Caltech’s Math 1b/1c curriculum.*[cite: 2]
+*Developing automated agent workflows to generate validated STACK questions and instructional content for Caltech’s Math 1b/1c curriculum.*
 * **Tech Stack:** `Python`, `LLMs / Multi-Agent Frameworks`, `Maxima CAS`, `LaTeX`
 * **Focus:** Algorithmic question generation, PRT structure generation, and real-time validation against computer algebra backends.
 
 ### Embedded Moodle/STACK Real-Time Analytics Plugin
-*Extending standalone analytics directly into the Moodle LMS ecosystem as an embedded course-level plugin.*[cite: 2]
+*Extending standalone analytics directly into the Moodle LMS ecosystem as an embedded course-level plugin.*
 * **Tech Stack:** `TypeScript`, `PHP`, `Moodle API`, `Python`
 * **Focus:** Eliminating export/import steps by rendering real-time item statistics, PRT branch diagnostics, and attempt trajectories inside active course modules.
 
 ### Bioinformatics & Gene Correlation Analysis
-* **Focus:** Computational Analysis & Human Genomics[cite: 2]
-* Conducted computational analysis on the human genome to analyze gene set correlations and extract statistical patterns from large-scale biological datasets[cite: 2].
+* **Focus:** Computational Analysis & Human Genomics
+* Conducted computational analysis on the human genome to analyze gene set correlations and extract statistical patterns from large-scale biological datasets.
 
 ### Combinatorics & Extremal Graph Theory
-* **Focus:** Ramsey's Theorem & Schur's Theorem[cite: 2]
-* Conducted combinatorial research as a Research Assistant at South Dakota State University, investigating monochromatic subgraphs, colorings, and partition regularity within Ramsey theory[cite: 2].
+* **Focus:** Ramsey's Theorem & Schur's Theorem
+* Conducted combinatorial research as a Research Assistant at South Dakota State University, investigating monochromatic subgraphs, colorings, and partition regularity within Ramsey theory.
 
 ---
 
 ## Conference Presentations
 
-* **Poster Presentation:** *"Turning STACK Response Data into Insight"* – International STACK Conference, Nairobi, Kenya (July 2026)[cite: 2]
-* **Slideshow Presentation:** *"Moodle/STACK Interactive Quiz Analytics"* – International STACK Conference, Nairobi, Kenya (July 2026)[cite: 2]
-* **Academic Presentation:** *"The Big Lie: Distilling the Truth from Power"* – BHS Literary Conference (April 2025)[cite: 2]
+* **Poster Presentation:** *"Turning STACK Response Data into Insight"* – International STACK Conference, Nairobi, Kenya (July 2026)
+* **Slideshow Presentation:** *"Moodle/STACK Interactive Quiz Analytics"* – International STACK Conference, Nairobi, Kenya (July 2026)
+* **Academic Presentation:** *"The Big Lie: Distilling the Truth from Power"* – BHS Literary Conference (April 2025)
 
 ---
 
 ## Tech Stack & Tools
 
-* **Languages:** Python, R, Java, MATLAB, TypeScript, PHP, SQL[cite: 2]
-* **Data Science, ML & Psychometrics:** Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly, Scikit-Learn, Item Response Theory (IRT), Rasch Modeling[cite: 2]
-* **Web, APIs & Cloud:** Streamlit, FastAPI, Moodle API, LTI 1.3, Firebase, Discord.py[cite: 2]
-* **Automation & Reporting:** ReportLab, Playwright, Chromium, Kaleido, OpenPyXL[cite: 2]
-* **Computational Math & Tools:** LaTeX, Maxima CAS, Git, Linux / Bash[cite: 2]
+* **Languages:** Python, R, Java, MATLAB, TypeScript, PHP, SQL
+* **Data Science, ML & Psychometrics:** Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly, Scikit-Learn, Item Response Theory (IRT), Rasch Modeling
+* **Web, APIs & Cloud:** Streamlit, FastAPI, Moodle API, LTI 1.3, Firebase, Discord.py
+* **Automation & Reporting:** ReportLab, Playwright, Chromium, Kaleido, OpenPyXL
+* **Computational Math & Tools:** LaTeX, Maxima CAS, Git, Linux / Bash
 
 ---
 
@@ -68,8 +75,5 @@ Focusing on educational analytics, psychometrics (Item Response Theory & Rasch M
 
 ## Connect with Me
 
-* **LinkedIn:** [linkedin.com/in/ernestwting](https://www.linkedin.com/in/ernestwting/)
-* **Email:** [eting@caltech.edu](mailto:eting@caltech.edu)[cite: 2]
-* **Website:** [ernestwting.poke.site](https://ernestwting.poke.site)
 * **Live App:** [interactive-analytics-stack-data.streamlit.app](https://interactive-analytics-stack-data.streamlit.app/)
-* **Institution:** California Institute of Technology (Pasadena, CA)[cite: 2]
+* **Institution:** California Institute of Technology (Pasadena, CA)
