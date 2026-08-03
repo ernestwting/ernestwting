@@ -72,7 +72,6 @@ Focusing on educational analytics, psychometrics (Item Response Theory & Rasch M
 
 * **Live App:** [interactive-analytics-stack-data.streamlit.app](https://interactive-analytics-stack-data.streamlit.app/)
 * **Institution:** California Institute of Technology (Pasadena, CA)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernestwting/)
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernestwting/)
 [![Email](https://img.shields.io/badge/Email-eting%40caltech.edu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eting@caltech.edu)
-[![CV](https://img.shields.io/badge/CV-Download%20PDF-00509E?style=flat&logo=adobeacrobatreader&logoColor=white)](https://ernestwting.poke.site/cv.pdf)
-[![Website](https://img.shields.io/badge/Website-ernestwting.poke.site-000000?style=flat&logo=githubpages&logoColor=white)](https://ernestwting.poke.site)
+
