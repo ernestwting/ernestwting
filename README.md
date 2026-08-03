@@ -11,7 +11,7 @@ Focusing on educational analytics, psychometrics (Item Response Theory & Rasch M
 
 ---
 
-## 🔬 Featured Projects
+## 🔬 Featured Research & Projects
 
 ### 📊 [Moodle/STACK Interactive Quiz Analytics Hub](https://interactive-analytics-stack-data.streamlit.app/)
 *An interactive web app built to extract actionable teaching insights from raw Moodle/STACK math assessment exports.*
@@ -19,13 +19,21 @@ Focusing on educational analytics, psychometrics (Item Response Theory & Rasch M
 * **Key Features:**
   * Extracts facility ($F_i$) and discrimination ($D_i$) difficulty indices across student best vs. all-attempt cohorts.
   * Visualizes Potential Response Tree (PRT) failure modes via interactive heatmaps and student-by-question performance matrices.
-  * Runs 100% client-side with pseudonymized data processing to preserve student privacy.
+  * Runs client-side with pseudonymized data processing to preserve student privacy.
   * Generates single-click, full-length PDF reports complete with dynamic analytical commentary and vector charts.
 
 ### 🤖 Multi-Agent LLMs for STACK Assessment & Curriculum Generation
 *Developing automated agent workflows to generate validated STACK questions and instructional content for Caltech’s Math 1b/1c curriculum.*
 * **Tech Stack:** `Python`, `LLMs / Multi-Agent Frameworks`, `Maxima CAS`, `LaTeX`
 * **Focus:** Algorithmic question generation, PRT structure generation, and real-time validation against computer algebra backends.
+
+### 🧬 Bioinformatics & Gene Correlation Analysis
+* **Focus:** Computational Analysis & Human Genomics
+* Conducted computational analysis on the human genome to analyze gene set correlations and extract statistical patterns from large-scale biological datasets.
+
+### 🧩 Combinatorics & Extremal Graph Theory
+* **Focus:** Ramsey's Theorem & Schur's Theorem
+* Conducted combinatorial research as a Research Assistant at South Dakota State University, investigating monochromatic subgraphs, colorings, and partition regularity within Ramsey theory.
 
 ### 🔌 Embedded Moodle/STACK Real-Time Analytics Plugin
 *Extending standalone analytics directly into the Moodle LMS ecosystem as an embedded course-level plugin.*
@@ -34,20 +42,21 @@ Focusing on educational analytics, psychometrics (Item Response Theory & Rasch M
 
 ---
 
-## 🗣️ Conference Presentations & Research
+## 🗣️ Conference Presentations
 
 * **Poster Presentation:** *"Turning STACK Response Data into Insight"* – International STACK Conference, Nairobi, Kenya (July 2026)
 * **Slideshow Presentation:** *"Moodle/STACK Interactive Quiz Analytics"* – International STACK Conference, Nairobi, Kenya (July 2026)
-* **Summer Undergraduate Research Fellow (SURF):** *INNODEMS & Caltech* – Quantifying student attempt trajectories, psychometric modeling, and automated assessment efficiency.
+* **Academic Presentation:** *"The Big Lie: Distilling the Truth from Power"* – BHS Literary Conference (April 2025)
 
 ---
 
 ## 🛠 Tech Stack & Tools
 
 * **Languages:** Python, R, Java, MATLAB, TypeScript, PHP, SQL
-* **Data Science & ML:** Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly, Kaleido, Scikit-Learn
-* **Frameworks & Web:** Streamlit, ReportLab, OpenPyXL, Playwright, Chromium
-* **Typesetting & Tools:** LaTeX, Git, Linux, Maxima CAS, Moodle API
+* **Data Science, ML & Psychometrics:** Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly, Scikit-Learn, Item Response Theory (IRT), Rasch Modeling
+* **Web, APIs & Cloud:** Streamlit, FastAPI, Moodle API, LTI 1.3, Firebase, Discord.py
+* **Automation & Reporting:** ReportLab, Playwright, Chromium, Kaleido, OpenPyXL
+* **Computational Math & Tools:** LaTeX, Maxima CAS, Git, Linux / Bash
 
 ---
 
