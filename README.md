@@ -1,83 +1,75 @@
-<div align="center">
+# Hi there, I'm Ernest
 
-# Hi there, I'm Ernest Ting
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernestwting/)
+[![Email](https://img.shields.io/badge/Email-eting%40caltech.edu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eting@caltech.edu)
+[![CV](https://img.shields.io/badge/CV-Download%20PDF-00509E?style=flat&logo=adobeacrobatreader&logoColor=white)](https://ernestwting.poke.site/cv.pdf)
+[![Website](https://img.shields.io/badge/Website-ernestwting.poke.site-000000?style=flat&logo=githubpages&logoColor=white)](https://ernestwting.poke.site)
 
-### Applied Computational Mathematics & Economics Student @ Caltech
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://caltech.edu)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:euting@caltech.edu)
-
-<a href="https://github.com/ernestwting">
-  <img src="https://github-readme-stats.vercel.app/api?username=ernestwting&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernestwting&layout=compact&theme=tokyonight" width="48%" />
-</a>
-
-</div>
-
----
-
-## About Me
-
-* **Education:** Undergraduate student in Applied Computational Mathematics and Economics at the California Institute of Technology.
-* **Research Focus:** Analytical data research, parsing and modeling online mathematics assessment metrics (Moodle & STACK).
-* **Roles:** Student Waiter for Caltech Dining Services & Research Assistant.
-* **Interests:** Quantitative analysis, formative comprehension checks, backward design principles, and educational data mining.
-
----
-
-## Tech Stack & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**Applied Computational Mathematics & Economics @ Caltech**[cite: 2]  
+Focusing on educational analytics, psychometrics (Item Response Theory & Rasch Modeling), multi-agent LLMs, and computational mathematics[cite: 2].
 
 ---
 
 ## Featured Research & Projects
 
-### INNODEMS: Moodle STACK Quiz Analytics
-> **Interactive analytics platform and performance reports for online mathematics assessment metrics[cite: 1].**
+### [Moodle/STACK Interactive Quiz Analytics Hub](https://interactive-analytics-stack-data.streamlit.app/)
+*An interactive web app built to extract actionable teaching insights from raw Moodle/STACK math assessment exports.*[cite: 2]
+* **Tech Stack:** `Python`, `Streamlit`, `Plotly`, `Pandas`, `SciPy`, `ReportLab`[cite: 2]
+* **Key Features:**
+  * Extracts facility ($F_i$) and discrimination ($D_i$) difficulty indices across student best vs. all-attempt cohorts.
+  * Visualizes Potential Response Tree (PRT) failure modes via interactive heatmaps and student-by-question performance matrices.
+  * Runs client-side with pseudonymized data processing to preserve student privacy.
+  * Generates single-click, full-length PDF reports complete with dynamic analytical commentary and vector charts.
 
-#### 1. Question Difficulty & Average Score Breakdown
-Analyzing average performance across fundamental mathematical topics to isolate key conceptual bottlenecks[cite: 1].
+### Multi-Agent LLMs for STACK Assessment & Curriculum Generation
+*Developing automated agent workflows to generate validated STACK questions and instructional content for Caltech’s Math 1b/1c curriculum.*[cite: 2]
+* **Tech Stack:** `Python`, `LLMs / Multi-Agent Frameworks`, `Maxima CAS`, `LaTeX`
+* **Focus:** Algorithmic question generation, PRT structure generation, and real-time validation against computer algebra backends.
 
-| Question Identifier | Total Attempts | Students Analyzed | Facility Index (%) | Average Score (/10) | Discrimination Index |
-| :--- | :---: | :---: | :---: | :---: | :---: |
-| **Q1 (Complex Numbers - Expressions)** | 35 | 27 | 59.26% | 6.85 | 0.71 |
-| **Q2 (Complex Numbers - Expressions)** | 35 | 27 | 77.78% | 8.33 | 0.29 |
-| **Q3 (Complex Numbers - Expressions)** | 35 | 27 | 77.78% | 8.08 | 0.57 |
-| **Q4 (Complex Numbers - Expressions)** | 35 | 27 | 74.07% | 7.96 | 0.43 |
+### Embedded Moodle/STACK Real-Time Analytics Plugin
+*Extending standalone analytics directly into the Moodle LMS ecosystem as an embedded course-level plugin.*[cite: 2]
+* **Tech Stack:** `TypeScript`, `PHP`, `Moodle API`, `Python`
+* **Focus:** Eliminating export/import steps by rendering real-time item statistics, PRT branch diagnostics, and attempt trajectories inside active course modules.
 
-*Source: Moodle STACK Analytics Hub Performance Report[cite: 1]*
+### Bioinformatics & Gene Correlation Analysis
+* **Focus:** Computational Analysis & Human Genomics[cite: 2]
+* Conducted computational analysis on the human genome to analyze gene set correlations and extract statistical patterns from large-scale biological datasets[cite: 2].
 
----
-
-#### 2. Class-Wide Solution Process Transition Network
-*Network metrics capturing student trajectory across multiple attempts for complex multi-part questions[cite: 1].*
-
-| Node ID | In-Degree | Out-Degree | Degree Centrality | In-Degree Centrality | Out-Degree Centrality |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| **Node 0** | 2 | 3 | 5.0 | 2.0 | 3.0 |
-| **Node C** | 6 | 5 | 11.0 | 6.0 | 5.0 |
-
----
-
-#### 3. Cross-Attempt Student Progression Metrics
-Tracking per-student score deltas from initial to final attempts across problem sets[cite: 1]:
-
-* **Improved Performance:** 3 Students (+5.0 to +10.0 score change)[cite: 1]
-* **Flat Performance:** 1 Student (Maintained score across attempts)[cite: 1]
-* **Regressed Performance:** 0 Students[cite: 1]
+### Combinatorics & Extremal Graph Theory
+* **Focus:** Ramsey's Theorem & Schur's Theorem[cite: 2]
+* Conducted combinatorial research as a Research Assistant at South Dakota State University, investigating monochromatic subgraphs, colorings, and partition regularity within Ramsey theory[cite: 2].
 
 ---
 
-## GitHub Activity
+## Conference Presentations
 
-<div align="center">
+* **Poster Presentation:** *"Turning STACK Response Data into Insight"* – International STACK Conference, Nairobi, Kenya (July 2026)[cite: 2]
+* **Slideshow Presentation:** *"Moodle/STACK Interactive Quiz Analytics"* – International STACK Conference, Nairobi, Kenya (July 2026)[cite: 2]
+* **Academic Presentation:** *"The Big Lie: Distilling the Truth from Power"* – BHS Literary Conference (April 2025)[cite: 2]
 
-![Ernest's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ernestwting&theme=tokyonight)
+---
 
-</div>
+## Tech Stack & Tools
+
+* **Languages:** Python, R, Java, MATLAB, TypeScript, PHP, SQL[cite: 2]
+* **Data Science, ML & Psychometrics:** Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly, Scikit-Learn, Item Response Theory (IRT), Rasch Modeling[cite: 2]
+* **Web, APIs & Cloud:** Streamlit, FastAPI, Moodle API, LTI 1.3, Firebase, Discord.py[cite: 2]
+* **Automation & Reporting:** ReportLab, Playwright, Chromium, Kaleido, OpenPyXL[cite: 2]
+* **Computational Math & Tools:** LaTeX, Maxima CAS, Git, Linux / Bash[cite: 2]
+
+---
+
+## GitHub Stats
+
+![Ernest's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ernestwting&show_icons=true&theme=tokyonight&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestwting&layout=compact&theme=tokyonight&hide=html,css)
+
+---
+
+## Connect with Me
+
+* **LinkedIn:** [linkedin.com/in/ernestwting](https://www.linkedin.com/in/ernestwting/)
+* **Email:** [eting@caltech.edu](mailto:eting@caltech.edu)[cite: 2]
+* **Website:** [ernestwting.poke.site](https://ernestwting.poke.site)
+* **Live App:** [interactive-analytics-stack-data.streamlit.app](https://interactive-analytics-stack-data.streamlit.app/)
+* **Institution:** California Institute of Technology (Pasadena, CA)[cite: 2]
