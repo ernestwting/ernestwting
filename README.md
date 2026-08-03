@@ -27,6 +27,11 @@ Focusing on educational analytics, psychometrics (Item Response Theory & Rasch M
 * **Tech Stack:** `Python`, `LLMs / Multi-Agent Frameworks`, `Maxima CAS`, `LaTeX`
 * **Focus:** Algorithmic question generation, PRT structure generation, and real-time validation against computer algebra backends.
 
+### 🔌 Embedded Moodle/STACK Real-Time Analytics Plugin
+*Extending standalone analytics directly into the Moodle LMS ecosystem as an embedded course-level plugin.*
+* **Tech Stack:** `TypeScript`, `PHP`, `Moodle API`, `Python`
+* **Focus:** Eliminating export/import steps by rendering real-time item statistics, PRT branch diagnostics, and attempt trajectories inside active course modules.
+
 ### 🧬 Bioinformatics & Gene Correlation Analysis
 * **Focus:** Computational Analysis & Human Genomics
 * Conducted computational analysis on the human genome to analyze gene set correlations and extract statistical patterns from large-scale biological datasets.
@@ -34,11 +39,6 @@ Focusing on educational analytics, psychometrics (Item Response Theory & Rasch M
 ### 🧩 Combinatorics & Extremal Graph Theory
 * **Focus:** Ramsey's Theorem & Schur's Theorem
 * Conducted combinatorial research as a Research Assistant at South Dakota State University, investigating monochromatic subgraphs, colorings, and partition regularity within Ramsey theory.
-
-### 🔌 Embedded Moodle/STACK Real-Time Analytics Plugin
-*Extending standalone analytics directly into the Moodle LMS ecosystem as an embedded course-level plugin.*
-* **Tech Stack:** `TypeScript`, `PHP`, `Moodle API`, `Python`
-* **Focus:** Eliminating export/import steps by rendering real-time item statistics, PRT branch diagnostics, and attempt trajectories inside active course modules.
 
 ---
 
