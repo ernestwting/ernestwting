@@ -3,7 +3,6 @@
 **Applied Computational Mathematics & Economics @ Caltech**  
 Focusing on educational analytics, psychometrics (Item Response Theory & Rasch Modeling), multi-agent LLMs, and computational mathematics.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernestwting/)
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=LaTeX&logoColor=white)](https://www.latex-project.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)](https://www.r-project.org/)
