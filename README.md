@@ -83,13 +83,6 @@ Focusing on educational analytics, psychometrics (Item Response Theory & Rasch M
 
 ---
 
-## GitHub Stats
-
-![Ernest's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ernestwting&show_icons=true&theme=tokyonight&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestwting&layout=compact&theme=tokyonight&hide=html,css)
-
----
-
 ## Connect with Me
 
 * **Live App:** [interactive-analytics-stack-data.streamlit.app](https://interactive-analytics-stack-data.streamlit.app/)
