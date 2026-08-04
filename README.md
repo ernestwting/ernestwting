@@ -11,11 +11,11 @@ Focusing on educational analytics, psychometrics (Item Response Theory & Rasch M
 [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)](https://plotly.com/)
 
 ---
-
 ## Featured Research & Projects
 
 ### [Moodle/STACK Interactive Quiz Analytics Hub](https://interactive-analytics-stack-data.streamlit.app/)
-**GitHub:** https://github.com/ernestwting/Interactive-quiz-analytics/tree/main
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/ernestwting/Interactive-quiz-analytics/tree/main)
 
 *An interactive web app built to extract actionable teaching insights from raw Moodle/STACK math assessment exports.*
 
@@ -29,9 +29,9 @@ Focusing on educational analytics, psychometrics (Item Response Theory & Rasch M
 ---
 
 ### Multi-Agent LLMs for STACK Assessment & Curriculum Generation
-**GitHub:**
-- https://github.com/ernestwting/Math-1b-Practical
-- https://github.com/ernestwting/Math-1c-Practical
+
+[![Math 1b Practical](https://img.shields.io/badge/GitHub-Math%201b%20Practical-181717?style=flat&logo=github&logoColor=white)](https://github.com/ernestwting/Math-1b-Practical)
+[![Math 1c Practical](https://img.shields.io/badge/GitHub-Math%201c%20Practical-181717?style=flat&logo=github&logoColor=white)](https://github.com/ernestwting/Math-1c-Practical)
 
 *Developing automated agent workflows to generate validated STACK questions and instructional content for Caltech’s Math 1b/1c curriculum.*
 
@@ -41,7 +41,8 @@ Focusing on educational analytics, psychometrics (Item Response Theory & Rasch M
 ---
 
 ### Embedded Moodle/STACK Real-Time Analytics Plugin
-**GitHub:** https://github.com/ernestwting/quiz-quizanalytics-full
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/ernestwting/quiz-quizanalytics-full)
 
 *Extending standalone analytics directly into the Moodle LMS ecosystem as an embedded course-level plugin.*
 
