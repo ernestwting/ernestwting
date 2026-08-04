@@ -1,4 +1,4 @@
-# Hi there, I'm Ernest
+# Hi there, I'm Ernest!
 
 **Applied Computational Mathematics & Economics @ Caltech**  
 Focusing on educational analytics, psychometrics (Item Response Theory & Rasch Modeling), multi-agent LLMs, and computational mathematics.
