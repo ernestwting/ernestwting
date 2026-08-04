@@ -15,7 +15,10 @@ Focusing on educational analytics, psychometrics (Item Response Theory & Rasch M
 ## Featured Research & Projects
 
 ### [Moodle/STACK Interactive Quiz Analytics Hub](https://interactive-analytics-stack-data.streamlit.app/)
+**GitHub:** https://github.com/ernestwting/Interactive-quiz-analytics/tree/main
+
 *An interactive web app built to extract actionable teaching insights from raw Moodle/STACK math assessment exports.*
+
 * **Tech Stack:** `Python`, `Streamlit`, `Plotly`, `Pandas`, `SciPy`, `ReportLab`
 * **Key Features:**
   * Extracts facility ($F_i$) and discrimination ($D_i$) difficulty indices across student best vs. all-attempt cohorts.
@@ -23,21 +26,39 @@ Focusing on educational analytics, psychometrics (Item Response Theory & Rasch M
   * Runs client-side with pseudonymized data processing to preserve student privacy.
   * Generates single-click, full-length PDF reports complete with dynamic analytical commentary and vector charts.
 
+---
+
 ### Multi-Agent LLMs for STACK Assessment & Curriculum Generation
+**GitHub:**
+- https://github.com/ernestwting/Math-1b-Practical
+- https://github.com/ernestwting/Math-1c-Practical
+
 *Developing automated agent workflows to generate validated STACK questions and instructional content for Caltech’s Math 1b/1c curriculum.*
+
 * **Tech Stack:** `Python`, `LLMs / Multi-Agent Frameworks`, `Maxima CAS`, `LaTeX`
 * **Focus:** Algorithmic question generation, PRT structure generation, and real-time validation against computer algebra backends.
 
+---
+
 ### Embedded Moodle/STACK Real-Time Analytics Plugin
+**GitHub:** https://github.com/ernestwting/quiz-quizanalytics-full
+
 *Extending standalone analytics directly into the Moodle LMS ecosystem as an embedded course-level plugin.*
+
 * **Tech Stack:** `TypeScript`, `PHP`, `Moodle API`, `Python`
 * **Focus:** Eliminating export/import steps by rendering real-time item statistics, PRT branch diagnostics, and attempt trajectories inside active course modules.
 
+---
+
 ### Bioinformatics & Gene Correlation Analysis
+
 * **Focus:** Computational Analysis & Human Genomics
 * Conducted computational analysis on the human genome to analyze gene set correlations and extract statistical patterns from large-scale biological datasets.
 
+---
+
 ### Combinatorics & Extremal Graph Theory
+
 * **Focus:** Ramsey's Theorem & Schur's Theorem
 * Conducted combinatorial research as a Research Assistant at South Dakota State University, investigating monochromatic subgraphs, colorings, and partition regularity within Ramsey theory.
 
