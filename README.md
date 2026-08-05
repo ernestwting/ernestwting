@@ -3,14 +3,13 @@
 **Applied Computational Mathematics & Economics @ Caltech**  
 Focusing on educational analytics, psychometrics (Item Response Theory & Rasch Modeling), multi-agent LLMs, and computational mathematics.
 
-[![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=LaTeX&logoColor=white)](https://www.latex-project.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)](https://www.r-project.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)](https://plotly.com/)
+[![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=flat&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
+[![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)](https://www.latex-project.org/)
 
 ---
 ## Featured Research & Projects
@@ -77,7 +76,13 @@ Focusing on educational analytics, psychometrics (Item Response Theory & Rasch M
 
 ## Tech Stack & Tools
 
-* **Languages:** Python, R, Java, MATLAB, TypeScript, PHP, SQL
+* **Languages:** [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)](https://www.r-project.org/)
+[![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=flat&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
+[![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)](https://www.latex-project.org/)
 * **Data Science, ML & Psychometrics:** Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly, Scikit-Learn, Item Response Theory (IRT), Rasch Modeling
 * **Web, APIs & Cloud:** Streamlit, FastAPI, Moodle API, LTI 1.3, Firebase, Discord.py
 * **Automation & Reporting:** ReportLab, Playwright, Chromium, Kaleido, OpenPyXL
