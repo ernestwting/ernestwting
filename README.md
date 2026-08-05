@@ -76,8 +76,8 @@ Focusing on educational analytics, psychometrics (Item Response Theory & Rasch M
 
 ## Tech Stack & Tools
 
-* **Languages:** 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+* **Languages:**  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -93,12 +93,12 @@ Focusing on educational analytics, psychometrics (Item Response Theory & Rasch M
 [![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)](https://seaborn.pydata.org/)
 [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)](https://plotly.com/)
 
-* **Machine Learning and Psychometrics:**  
+* **Machine Learning & Psychometrics:**  
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
 [![Item Response Theory](https://img.shields.io/badge/Item%20Response%20Theory-6A1B9A?style=flat)](https://en.wikipedia.org/wiki/Item_response_theory)
 [![Rasch Modeling](https://img.shields.io/badge/Rasch%20Modeling-00897B?style=flat)](https://en.wikipedia.org/wiki/Rasch_model)
 
-* **Web, APIs & Cloud:**
+* **Web, APIs & Cloud:**  
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Moodle API](https://img.shields.io/badge/Moodle%20API-F98012?style=flat&logo=moodle&logoColor=white)](https://moodledev.io/)
@@ -106,13 +106,14 @@ Focusing on educational analytics, psychometrics (Item Response Theory & Rasch M
 [![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white)](https://firebase.google.com/)
 [![discord.py](https://img.shields.io/badge/discord.py-5865F2?style=flat&logo=discord&logoColor=white)](https://discordpy.readthedocs.io/)
 
-* **Automation & Reporting:** [![ReportLab](https://img.shields.io/badge/ReportLab-CC0000?style=flat)](https://www.reportlab.com/)
+* **Automation & Reporting:**  
+[![ReportLab](https://img.shields.io/badge/ReportLab-CC0000?style=flat)](https://www.reportlab.com/)
 [![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)](https://playwright.dev/)
 [![Chromium](https://img.shields.io/badge/Chromium-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://www.chromium.org/)
 [![Kaleido](https://img.shields.io/badge/Kaleido-5E35B1?style=flat)](https://github.com/plotly/Kaleido)
 [![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=flat)](https://openpyxl.readthedocs.io/)
 
-* **Computational Math & Tools:** [![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)](https://www.latex-project.org/)
+* **Computational Math & Tools:**  
 [![Maxima CAS](https://img.shields.io/badge/Maxima%20CAS-5C6BC0?style=flat)](https://maxima.sourceforge.io/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/)
