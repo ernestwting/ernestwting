@@ -83,10 +83,31 @@ Focusing on educational analytics, psychometrics (Item Response Theory & Rasch M
 [![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)](https://www.r-project.org/)
 [![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=flat&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)](https://www.latex-project.org/)
-* **Data Science, ML & Psychometrics:** Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly, Scikit-Learn, Item Response Theory (IRT), Rasch Modeling
-* **Web, APIs & Cloud:** Streamlit, FastAPI, Moodle API, LTI 1.3, Firebase, Discord.py
-* **Automation & Reporting:** ReportLab, Playwright, Chromium, Kaleido, OpenPyXL
-* **Computational Math & Tools:** LaTeX, Maxima CAS, Git, Linux / Bash
+* **Data Science, ML & Psychometrics:** [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
+[![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)](https://scipy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)](https://seaborn.pydata.org/)
+[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)](https://plotly.com/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![Item Response Theory](https://img.shields.io/badge/Item%20Response%20Theory-6A1B9A?style=flat)](https://en.wikipedia.org/wiki/Item_response_theory)
+[![Rasch Modeling](https://img.shields.io/badge/Rasch%20Modeling-00897B?style=flat)](https://en.wikipedia.org/wiki/Rasch_model)
+* **Web, APIs & Cloud:** [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Moodle API](https://img.shields.io/badge/Moodle%20API-F98012?style=flat&logo=moodle&logoColor=white)](https://moodledev.io/)
+[![LTI 1.3](https://img.shields.io/badge/LTI%201.3-005A9C?style=flat)](https://www.imsglobal.org/activity/learning-tools-interoperability)
+[![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white)](https://firebase.google.com/)
+[![discord.py](https://img.shields.io/badge/discord.py-5865F2?style=flat&logo=discord&logoColor=white)](https://discordpy.readthedocs.io/)
+* **Automation & Reporting:** [![ReportLab](https://img.shields.io/badge/ReportLab-CC0000?style=flat)](https://www.reportlab.com/)
+[![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)](https://playwright.dev/)
+[![Chromium](https://img.shields.io/badge/Chromium-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://www.chromium.org/)
+[![Kaleido](https://img.shields.io/badge/Kaleido-5E35B1?style=flat)](https://github.com/plotly/Kaleido)
+[![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=flat)](https://openpyxl.readthedocs.io/)
+* **Computational Math & Tools:** [![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)](https://www.latex-project.org/)
+[![Maxima CAS](https://img.shields.io/badge/Maxima%20CAS-5C6BC0?style=flat)](https://maxima.sourceforge.io/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 
 ---
 
