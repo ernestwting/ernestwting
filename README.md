@@ -43,7 +43,7 @@ Focusing on educational analytics, psychometrics (Item Response Theory & Rasch M
 
 ### Embedded Moodle/STACK Real-Time Analytics Plugin
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/ernestwting/quiz-quizanalytics-full)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/ernestwting/quiz-quizanalytics-plugin.git)
 
 *Extending standalone analytics directly into the Moodle LMS ecosystem as an embedded course-level plugin.*
 
