@@ -97,8 +97,8 @@ Focusing on educational analytics, psychometrics (Item Response Theory & Rasch M
 [![Item Response Theory](https://img.shields.io/badge/Item%20Response%20Theory-6A1B9A?style=flat)](https://en.wikipedia.org/wiki/Item_response_theory)
 [![Rasch Modeling](https://img.shields.io/badge/Rasch%20Modeling-00897B?style=flat)](https://en.wikipedia.org/wiki/Rasch_model)
 
-* **Web, APIs & Cloud:** [
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
+* **Web, APIs & Cloud:**
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Moodle API](https://img.shields.io/badge/Moodle%20API-F98012?style=flat&logo=moodle&logoColor=white)](https://moodledev.io/)
 [![LTI 1.3](https://img.shields.io/badge/LTI%201.3-005A9C?style=flat)](https://www.imsglobal.org/activity/learning-tools-interoperability)
