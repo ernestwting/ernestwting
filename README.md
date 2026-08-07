@@ -14,6 +14,19 @@ Focusing on educational analytics, psychometrics (Item Response Theory & Rasch M
 ---
 ## Featured Research & Projects
 
+### Moodle Learning Analytics: Student Risk & STACK Question Diagnostics
+
+*A two-model machine learning system for the Moodle Analytics API: one model predicts student risk of course non-completion from STACK behavioral indicators, the other diagnoses question and Potential Response Tree (PRT) quality across a course's STACK item bank.*
+
+* **Tech Stack:** `PHP`, `Python`, `TensorFlow`, `php-ml`, `Moodle Analytics API`, `Item Response Theory`
+* **Key Features:**
+  * **Model 1 (student risk):** binary target for course non-completion, built on indicators including grade trajectory, anomalous response latency, frustration/abandonment (Shannon entropy of attempt gaps), help-seeking behavior, and feedback-responsiveness (edit-distance between consecutive attempts).
+  * **Model 2 (question/PRT diagnostics):** IRT-based difficulty and discrimination estimation, PRT tree traversal-coverage analysis to flag bloated or dead branches, and seed-bias detection across randomized question variants.
+  * Dual ML backends — logistic regression (PHP) and a feedforward neural network (Python/TensorFlow) — run as an A/B comparison per Moodle's multi-model support.
+  * Designed against the Moodle Analytics API's actual constraints (binary-only supervised targets, bounded [-1, 1] indicators), with non-ML diagnostics kept in a separate reporting layer rather than forced into the ML pipeline.
+
+---
+
 ### [Moodle/STACK Interactive Quiz Analytics Hub](https://interactive-analytics-stack-data.streamlit.app/)
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/ernestwting/Interactive-quiz-analytics/tree/main)
@@ -34,7 +47,7 @@ Focusing on educational analytics, psychometrics (Item Response Theory & Rasch M
 [![Math 1b Practical](https://img.shields.io/badge/GitHub-Math%201b%20Practical-181717?style=flat&logo=github&logoColor=white)](https://github.com/ernestwting/Math-1b-Practical)
 [![Math 1c Practical](https://img.shields.io/badge/GitHub-Math%201c%20Practical-181717?style=flat&logo=github&logoColor=white)](https://github.com/ernestwting/Math-1c-Practical)
 
-*Developing automated agent workflows to generate validated STACK questions and instructional content for Caltech’s Math 1b/1c curriculum.*
+*Developing automated agent workflows to generate validated STACK questions and instructional content for Caltech's Math 1b/1c curriculum.*
 
 * **Tech Stack:** `Python`, `LLMs / Multi-Agent Frameworks`, `Maxima CAS`, `LaTeX`
 * **Focus:** Algorithmic question generation, PRT structure generation, and real-time validation against computer algebra backends.
@@ -95,6 +108,7 @@ Focusing on educational analytics, psychometrics (Item Response Theory & Rasch M
 
 * **Machine Learning & Psychometrics:**  
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Item Response Theory](https://img.shields.io/badge/Item%20Response%20Theory-6A1B9A?style=flat)](https://en.wikipedia.org/wiki/Item_response_theory)
 [![Rasch Modeling](https://img.shields.io/badge/Rasch%20Modeling-00897B?style=flat)](https://en.wikipedia.org/wiki/Rasch_model)
 
@@ -127,4 +141,3 @@ Focusing on educational analytics, psychometrics (Item Response Theory & Rasch M
 * **Institution:** California Institute of Technology (Pasadena, CA)
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernestwting/)
 [![Outlook](https://img.shields.io/badge/Outlook-eting%40caltech.edu-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:eting@caltech.edu)
-
