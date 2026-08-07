@@ -14,7 +14,9 @@ Focusing on educational analytics, psychometrics (Item Response Theory & Rasch M
 ---
 ## Featured Research & Projects
 
-### Moodle Learning Analytics: Student Risk & STACK Question Diagnostics
+### Dual Machine Learning Model: Student Risk & STACK Question Diagnostics
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/ernestwting/moodle-local_stackanalytics.git)
 
 *A two-model machine learning system for the Moodle Analytics API: one model predicts student risk of course non-completion from STACK behavioral indicators, the other diagnoses question and Potential Response Tree (PRT) quality across a course's STACK item bank.*
 
@@ -24,21 +26,6 @@ Focusing on educational analytics, psychometrics (Item Response Theory & Rasch M
   * **Model 2 (question/PRT diagnostics):** IRT-based difficulty and discrimination estimation, PRT tree traversal-coverage analysis to flag bloated or dead branches, and seed-bias detection across randomized question variants.
   * Dual ML backends — logistic regression (PHP) and a feedforward neural network (Python/TensorFlow) — run as an A/B comparison per Moodle's multi-model support.
   * Designed against the Moodle Analytics API's actual constraints (binary-only supervised targets, bounded [-1, 1] indicators), with non-ML diagnostics kept in a separate reporting layer rather than forced into the ML pipeline.
-
----
-
-### [Moodle/STACK Interactive Quiz Analytics Hub](https://interactive-analytics-stack-data.streamlit.app/)
-
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/ernestwting/Interactive-quiz-analytics/tree/main)
-
-*An interactive web app built to extract actionable teaching insights from raw Moodle/STACK math assessment exports.*
-
-* **Tech Stack:** `Python`, `Streamlit`, `Plotly`, `Pandas`, `SciPy`, `ReportLab`
-* **Key Features:**
-  * Extracts facility ($F_i$) and discrimination ($D_i$) difficulty indices across student best vs. all-attempt cohorts.
-  * Visualizes Potential Response Tree (PRT) failure modes via interactive heatmaps and student-by-question performance matrices.
-  * Runs client-side with pseudonymized data processing to preserve student privacy.
-  * Generates single-click, full-length PDF reports complete with dynamic analytical commentary and vector charts.
 
 ---
 
@@ -62,6 +49,21 @@ Focusing on educational analytics, psychometrics (Item Response Theory & Rasch M
 
 * **Tech Stack:** `TypeScript`, `PHP`, `Moodle API`, `Python`
 * **Focus:** Eliminating export/import steps by rendering real-time item statistics, PRT branch diagnostics, and attempt trajectories inside active course modules.
+
+---
+
+### [Moodle/STACK Interactive Quiz Analytics Hub](https://interactive-analytics-stack-data.streamlit.app/)
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/ernestwting/Interactive-quiz-analytics/tree/main)
+
+*An interactive web app built to extract actionable teaching insights from raw Moodle/STACK math assessment exports.*
+
+* **Tech Stack:** `Python`, `Streamlit`, `Plotly`, `Pandas`, `SciPy`, `ReportLab`
+* **Key Features:**
+  * Extracts facility ($F_i$) and discrimination ($D_i$) difficulty indices across student best vs. all-attempt cohorts.
+  * Visualizes Potential Response Tree (PRT) failure modes via interactive heatmaps and student-by-question performance matrices.
+  * Runs client-side with pseudonymized data processing to preserve student privacy.
+  * Generates single-click, full-length PDF reports complete with dynamic analytical commentary and vector charts.
 
 ---
 
