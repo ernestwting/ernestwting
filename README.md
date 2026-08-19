@@ -14,6 +14,21 @@ Focusing on educational analytics, psychometrics (Item Response Theory & Rasch M
 ---
 ## Featured Research & Projects
 
+### STACK q-type Analytics for Moodle
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/ernestwting/moodle-local_stackquizanalytics.git)
+
+*A single, self-contained Moodle plugin unifying four sections of analytics for STACK (Maxima CAS) quizzes — Quiz Analytics, Question Analytics, Model Analytics, and Diagnostics Analytics — behind one "Analytics" entry point with a section switcher, merging what were previously two separate plugins a teacher had to install and use independently.*
+
+* **Tech Stack:** `PHP`, `Moodle API`, `Moodle Analytics API`, `Plotly.js`, `KaTeX`, `TCPDF`
+* **Key Features:**
+  * **Quiz Analytics & Question Analytics:** course-wide and per-quiz STACK response statistics — attempts-vs-grades scatter, difficulty/response distributions, per-question error drill-down, student performance matrices, and Potential Response Tree (PRT) transition graphs with 3D distance charts.
+  * **Model Analytics:** two Moodle Analytics API models — a student non-completion risk target driven by five behavioral indicators (grade trajectory, response-latency anomaly, disengagement entropy, help-seeking gap, feedback-revision distance), and a per-question review target driven by four indicators (IRT-inspired difficulty, syntax-error rate, unreached-node ratio, feedback-ineffectiveness).
+  * **Diagnostics Analytics:** seed-bias (one-way ANOVA) and PRT branch-coverage reports computed directly rather than forced into the ML pipeline, since they lack a natural ground-truth label.
+  * Every computation — STACK/Maxima response parsing, statistics, indicator math, PDF export — runs in-process in plain PHP with no external service and no data leaving the Moodle server; every view has a one-click landscape PDF export.
+
+---
+
 ### Dual Machine Learning Model: Student Risk & STACK Question Diagnostics
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/ernestwting/moodle-local_stackanalytics.git)
