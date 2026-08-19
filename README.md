@@ -160,11 +160,11 @@
 
 <img src="https://skillicons.dev/icons?i=php" height="40"/>
 
-`Moodle API`
-`Analytics API`
-`Plotly.js`
-`KaTeX`
-`TCPDF`
+<img src="https://img.shields.io/badge/Moodle%20API-F98012?style=flat&logo=moodle&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Analytics%20API-D2691E?style=flat" height="28"/>
+<img src="https://img.shields.io/badge/Plotly.js-3F4F75?style=flat&logo=plotly&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/KaTeX-008080?style=flat" height="28"/>
+<img src="https://img.shields.io/badge/TCPDF-C0392B?style=flat" height="28"/>
 
 </td>
 <td width="74%" valign="top">
@@ -199,9 +199,9 @@
 
 <img src="https://skillicons.dev/icons?i=php,py,tensorflow" height="40"/>
 
-`php-ml`
-`Analytics API`
-`IRT`
+<img src="https://img.shields.io/badge/php--ml-787CB5?style=flat&logo=php&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Analytics%20API-D2691E?style=flat" height="28"/>
+<img src="https://img.shields.io/badge/IRT-6A1B9A?style=flat" height="28"/>
 
 </td>
 <td width="74%" valign="top">
@@ -236,8 +236,8 @@
 
 <img src="https://skillicons.dev/icons?i=py,latex" height="40"/>
 
-`Multi-Agent LLMs`
-`Maxima CAS`
+<img src="https://img.shields.io/badge/Multi--Agent%20LLMs-16A085?style=flat" height="28"/>
+<img src="https://img.shields.io/badge/Maxima%20CAS-5C6BC0?style=flat" height="28"/>
 
 </td>
 <td width="74%" valign="top">
@@ -271,7 +271,7 @@
 
 <img src="https://skillicons.dev/icons?i=ts,php,py" height="40"/>
 
-`Moodle API`
+<img src="https://img.shields.io/badge/Moodle%20API-F98012?style=flat&logo=moodle&logoColor=white" height="28"/>
 
 </td>
 <td width="74%" valign="top">
@@ -304,11 +304,11 @@
 
 <img src="https://skillicons.dev/icons?i=py" height="40"/>
 
-`Streamlit`
-`Plotly`
-`Pandas`
-`SciPy`
-`ReportLab`
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/ReportLab-CC0000?style=flat" height="28"/>
 
 </td>
 <td width="74%" valign="top">
