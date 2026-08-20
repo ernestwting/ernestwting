@@ -11,6 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernestwting/)
 [![Outlook](https://img.shields.io/badge/Email-eting%40caltech.edu-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:eting@caltech.edu)
 [![Streamlit](https://img.shields.io/badge/Live_App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://interactive-analytics-stack-data.streamlit.app/)
+[![Moodle Marketplace](https://img.shields.io/badge/Live_Plugin-Moodle_Marketplace-F98012?style=flat-square&logo=moodle&logoColor=white)](https://marketplace.moodle.com/plugins/3995/versions#plugin-tab-content)
 ![Profile Views](https://komarev.com/ghpvc/?username=ernestwting&style=flat-square&color=6272a4&label=PROFILE+VIEWS)
 
 </div>
@@ -19,16 +20,12 @@
 
 ## About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ernestwting&show_icons=true&theme=tokyonight&hide_border=true&bg_color=transparent&title_color=9AA3C9&icon_color=8be9fd&text_color=c9c9d9&count_private=true" width="47%"/>
-
 - Studying **Applied Computational Mathematics & Economics** at **Caltech**
 - Building tools at the intersection of **psychometrics** (IRT, Rasch modeling), **educational analytics**, and **multi-agent LLM systems**
 - Currently deep in the **Moodle / STACK (Maxima CAS)** ecosystem — analytics plugins, ML diagnostics, and agentic question generation
 - Presented at the **International STACK Conference**, Nairobi, Kenya (July 2026)
 - Always tinkering with something new in psychometric modeling or agent workflows
 - Reach me at **eting@caltech.edu**
-
-<br clear="right"/>
 
 ---
 
@@ -37,7 +34,6 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernestwting&layout=compact&theme=tokyonight&hide_border=true&bg_color=transparent&title_color=9AA3C9&text_color=c9c9d9&langs_count=8" height="200"/>
-<img src="https://streak-stats.demolab.com/?user=ernestwting&theme=tokyonight&hide_border=true&background=transparent&ring=8be9fd&fire=c9c17a&currStreakLabel=9AA3C9" height="200"/>
 
 <br/>
 
@@ -63,6 +59,7 @@
 
 <p>
 <a href="https://github.com/ernestwting/moodle-local_stackquizanalytics.git"><img src="https://img.shields.io/badge/My_Moodle_Plugin-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://marketplace.moodle.com/plugins/3995/versions#plugin-tab-content"><img src="https://img.shields.io/badge/Live_Plugin-Moodle_Marketplace-F98012?style=flat-square&logo=moodle&logoColor=white"/></a>
 <img src="https://img.shields.io/github/last-commit/ernestwting/moodle-local_stackquizanalytics?style=flat-square&color=4c9aff&label=last%20commit"/>
 <img src="https://img.shields.io/badge/status-alpha-orange?style=flat-square"/>
 <img src="https://img.shields.io/badge/type-Moodle%20Plugin-6272a4?style=flat-square"/>
@@ -335,7 +332,7 @@ Combinatorial research as a Research Assistant at South Dakota State University,
 <div align="center">
 
 * **Live App:** [interactive-analytics-stack-data.streamlit.app](https://interactive-analytics-stack-data.streamlit.app/)
-* **My Moodle Plugin:** [STACK q-type Analytics for Moodle](https://github.com/ernestwting/moodle-local_stackquizanalytics.git)
+* **My Moodle Plugin:** [STACK q-type Analytics for Moodle](https://github.com/ernestwting/moodle-local_stackquizanalytics.git) · [Live on Moodle Marketplace](https://marketplace.moodle.com/plugins/3995/versions#plugin-tab-content)
 * **Institution:** California Institute of Technology (Pasadena, CA)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernestwting/)
