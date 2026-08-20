@@ -32,87 +32,55 @@
 
 ---
 
-## Last Jammed Out To
-
-<div align="center">
-
-<!-- Live "currently / recently playing" badge — see setup note at the bottom of this README -->
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=REPLACE_WITH_YOUR_UID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=c9c17a&bar_color_cover=false" width="380"/>
-
-</div>
-
-<table>
-<tr>
-<th align="center">All-Time Favorites</th>
-<th align="center">Monthly Favorites</th>
-<th align="center">Current Favorites</th>
-</tr>
-<tr>
-<td valign="top">
-
-<!--START_LASTFM_TRACKS:{"period": "overall", "rows": 5}-->
-<!--END_LASTFM_TRACKS-->
-
-</td>
-<td valign="top">
-
-<!--START_LASTFM_TRACKS:{"period": "1month", "rows": 5}-->
-<!--END_LASTFM_TRACKS-->
-
-</td>
-<td valign="top">
-
-<!--START_LASTFM_TRACKS:{"period": "7day", "rows": 5}-->
-<!--END_LASTFM_TRACKS-->
-
-</td>
-</tr>
-</table>
-
-<sub>These three columns auto-populate once the Last.fm Action is wired up — see the "Widget Setup" section below.</sub>
-
----
-
 ## Tech Stack
 
 <div align="center">
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=py,php,r,js,latex,matlab" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <br/><br/>
 
 **Data Science, ML & Psychometrics**
 <br/>
-<img src="https://skillicons.dev/icons?i=sklearn,tensorflow" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="48"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" height="48"/>
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" height="48"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" height="48"/>
-<img src="https://img.shields.io/badge/Item%20Response%20Theory-6A1B9A?style=flat" height="48"/>
-<img src="https://img.shields.io/badge/Rasch%20Modeling-00897B?style=flat" height="48"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Item%20Response%20Theory-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Rasch%20Modeling-00897B?style=for-the-badge"/>
 
 <br/><br/>
 
 **Web, APIs & Cloud**
 <br/>
-<img src="https://skillicons.dev/icons?i=fastapi,firebase" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" height="48"/>
-<img src="https://img.shields.io/badge/Moodle%20API-F98012?style=flat&logo=moodle&logoColor=white" height="48"/>
-<img src="https://img.shields.io/badge/LTI%201.3-005A9C?style=flat" height="48"/>
-<img src="https://img.shields.io/badge/discord.py-5865F2?style=flat&logo=discord&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Moodle%20API-F98012?style=for-the-badge&logo=moodle&logoColor=white"/>
+<img src="https://img.shields.io/badge/LTI%201.3-005A9C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 
 <br/><br/>
 
 **Automation, Reporting & Computational Math**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,linux,bash" />
-<img src="https://img.shields.io/badge/ReportLab-CC0000?style=flat" height="48"/>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" height="48"/>
-<img src="https://img.shields.io/badge/Maxima%20CAS-5C6BC0?style=flat" height="48"/>
-<img src="https://img.shields.io/badge/OpenPyXL-217346?style=flat" height="48"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/ReportLab-CC0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maxima%20CAS-5C6BC0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge"/>
 
 </div>
 
@@ -139,9 +107,13 @@
 
 ## Featured Research & Projects
 
+<sub>Click a project to expand it.</sub>
+
 <br/>
 
-### STACK q-type Analytics for Moodle
+<details>
+<summary><b>STACK q-type Analytics for Moodle</b> — unifying Quiz, Question, Model & Diagnostics analytics for STACK quizzes into one Moodle plugin</summary>
+<br/>
 
 <p>
 <a href="https://github.com/ernestwting/moodle-local_stackquizanalytics.git"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
@@ -150,7 +122,7 @@
 <img src="https://img.shields.io/badge/type-Moodle%20Plugin-6272a4?style=flat-square"/>
 </p>
 
-> A single, self-contained Moodle plugin unifying four sections of analytics for STACK (Maxima CAS) quizzes — behind one **"Analytics"** entry point with a section switcher, merging what were previously two separate plugins a teacher had to install and use independently.
+A single, self-contained Moodle plugin unifying four sections of analytics for STACK (Maxima CAS) quizzes — behind one **"Analytics"** entry point with a section switcher, merging what were previously two separate plugins a teacher had to install and use independently.
 
 <table width="100%">
 <tr>
@@ -158,13 +130,12 @@
 
 **Stack**
 
-<img src="https://skillicons.dev/icons?i=php" height="40"/>
-
-<img src="https://img.shields.io/badge/Moodle%20API-F98012?style=flat&logo=moodle&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Analytics%20API-D2691E?style=flat" height="28"/>
-<img src="https://img.shields.io/badge/Plotly.js-3F4F75?style=flat&logo=plotly&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/KaTeX-008080?style=flat" height="28"/>
-<img src="https://img.shields.io/badge/TCPDF-C0392B?style=flat" height="28"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Moodle%20API-F98012?style=for-the-badge&logo=moodle&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Analytics%20API-D2691E?style=for-the-badge"/><br/>
+<img src="https://img.shields.io/badge/Plotly.js-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/KaTeX-008080?style=for-the-badge"/><br/>
+<img src="https://img.shields.io/badge/TCPDF-C0392B?style=for-the-badge"/>
 
 </td>
 <td width="74%" valign="top">
@@ -179,9 +150,11 @@
 </tr>
 </table>
 
-<br/>
+</details>
 
-### Dual Machine Learning Model: Student Risk & STACK Question Diagnostics
+<details>
+<summary><b>Dual Machine Learning Model: Student Risk & STACK Question Diagnostics</b> — two Analytics API models for student non-completion risk and STACK question/PRT diagnostics</summary>
+<br/>
 
 <p>
 <a href="https://github.com/ernestwting/moodle-local_stackanalytics.git"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
@@ -189,7 +162,7 @@
 <img src="https://img.shields.io/badge/type-ML%20System-9d4edd?style=flat-square"/>
 </p>
 
-> A two-model machine learning system for the Moodle Analytics API: one model predicts a student's risk of course non-completion, the other diagnoses question and Potential Response Tree (PRT) quality across a course's STACK item bank.
+A two-model machine learning system for the Moodle Analytics API: one model predicts a student's risk of course non-completion, the other diagnoses question and Potential Response Tree (PRT) quality across a course's STACK item bank.
 
 <table width="100%">
 <tr>
@@ -197,11 +170,12 @@
 
 **Stack**
 
-<img src="https://skillicons.dev/icons?i=php,py,tensorflow" height="40"/>
-
-<img src="https://img.shields.io/badge/php--ml-787CB5?style=flat&logo=php&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Analytics%20API-D2691E?style=flat" height="28"/>
-<img src="https://img.shields.io/badge/IRT-6A1B9A?style=flat" height="28"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/php--ml-787CB5?style=for-the-badge&logo=php&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Analytics%20API-D2691E?style=for-the-badge"/><br/>
+<img src="https://img.shields.io/badge/IRT-6A1B9A?style=for-the-badge"/>
 
 </td>
 <td width="74%" valign="top">
@@ -216,9 +190,11 @@
 </tr>
 </table>
 
-<br/>
+</details>
 
-### Multi-Agent LLMs for STACK Assessment & Curriculum Generation
+<details>
+<summary><b>Multi-Agent LLMs for STACK Assessment & Curriculum Generation</b> — agent workflows generating validated STACK questions & curriculum content for Math 1b/1c</summary>
+<br/>
 
 <p>
 <a href="https://github.com/ernestwting/Math-1b-Practical"><img src="https://img.shields.io/badge/GitHub-Math_1b_Practical-181717?style=flat-square&logo=github&logoColor=white"/></a>
@@ -226,7 +202,7 @@
 <img src="https://img.shields.io/badge/type-Agentic%20Workflow-2a9d8f?style=flat-square"/>
 </p>
 
-> Automated agent workflows that generate validated STACK questions and instructional content for Caltech's Math 1b/1c curriculum.
+Automated agent workflows that generate validated STACK questions and instructional content for Caltech's Math 1b/1c curriculum.
 
 <table width="100%">
 <tr>
@@ -234,10 +210,10 @@
 
 **Stack**
 
-<img src="https://skillicons.dev/icons?i=py,latex" height="40"/>
-
-<img src="https://img.shields.io/badge/Multi--Agent%20LLMs-16A085?style=flat" height="28"/>
-<img src="https://img.shields.io/badge/Maxima%20CAS-5C6BC0?style=flat" height="28"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Multi--Agent%20LLMs-16A085?style=for-the-badge"/><br/>
+<img src="https://img.shields.io/badge/Maxima%20CAS-5C6BC0?style=for-the-badge"/>
 
 </td>
 <td width="74%" valign="top">
@@ -251,9 +227,11 @@
 </tr>
 </table>
 
-<br/>
+</details>
 
-### Embedded Moodle/STACK Real-Time Analytics Plugin
+<details>
+<summary><b>Embedded Moodle/STACK Real-Time Analytics Plugin</b> — real-time STACK analytics embedded directly into the Moodle course view</summary>
+<br/>
 
 <p>
 <a href="https://github.com/ernestwting/quiz-quizanalytics-plugin.git"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
@@ -261,7 +239,7 @@
 <img src="https://img.shields.io/badge/type-Moodle%20Plugin-6272a4?style=flat-square"/>
 </p>
 
-> Extends standalone analytics directly into the Moodle LMS ecosystem as an embedded, course-level plugin — no export/import step required.
+Extends standalone analytics directly into the Moodle LMS ecosystem as an embedded, course-level plugin — no export/import step required.
 
 <table width="100%">
 <tr>
@@ -269,9 +247,10 @@
 
 **Stack**
 
-<img src="https://skillicons.dev/icons?i=ts,php,py" height="40"/>
-
-<img src="https://img.shields.io/badge/Moodle%20API-F98012?style=flat&logo=moodle&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Moodle%20API-F98012?style=for-the-badge&logo=moodle&logoColor=white"/>
 
 </td>
 <td width="74%" valign="top">
@@ -284,9 +263,11 @@
 </tr>
 </table>
 
-<br/>
+</details>
 
-### Moodle/STACK Interactive Quiz Analytics Hub
+<details>
+<summary><b>Moodle/STACK Interactive Quiz Analytics Hub</b> — turns raw Moodle/STACK exports into interactive teaching insights, with one-click PDF reports</summary>
+<br/>
 
 <p>
 <a href="https://interactive-analytics-stack-data.streamlit.app/"><img src="https://img.shields.io/badge/Live_App-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/></a>
@@ -294,7 +275,7 @@
 <img src="https://img.shields.io/github/last-commit/ernestwting/Interactive-quiz-analytics?style=flat-square&color=4c9aff&label=last%20commit"/>
 </p>
 
-> An interactive web app that turns raw Moodle/STACK math assessment exports into actionable teaching insights.
+An interactive web app that turns raw Moodle/STACK math assessment exports into actionable teaching insights.
 
 <table width="100%">
 <tr>
@@ -302,13 +283,12 @@
 
 **Stack**
 
-<img src="https://skillicons.dev/icons?i=py" height="40"/>
-
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/ReportLab-CC0000?style=flat" height="28"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/ReportLab-CC0000?style=for-the-badge"/>
 
 </td>
 <td width="74%" valign="top">
@@ -323,27 +303,33 @@
 </tr>
 </table>
 
-<br/>
+</details>
 
-### Bioinformatics & Gene Correlation Analysis
+<details>
+<summary><b>Bioinformatics & Gene Correlation Analysis</b> — computational analysis of human genome gene-set correlations</summary>
+<br/>
 
 <p>
 <img src="https://img.shields.io/badge/type-Research-b08968?style=flat-square"/>
 <img src="https://img.shields.io/badge/focus-Human%20Genomics-b08968?style=flat-square"/>
 </p>
 
-> Computational analysis on the human genome to surface gene set correlations and extract statistical patterns from large-scale biological datasets.
+Computational analysis on the human genome to surface gene set correlations and extract statistical patterns from large-scale biological datasets.
 
+</details>
+
+<details>
+<summary><b>Combinatorics & Extremal Graph Theory</b> — combinatorial research in Ramsey & Schur's theorem</summary>
 <br/>
-
-### Combinatorics & Extremal Graph Theory
 
 <p>
 <img src="https://img.shields.io/badge/type-Research-b08968?style=flat-square"/>
 <img src="https://img.shields.io/badge/focus-Ramsey%20%26%20Schur's%20Theorem-b08968?style=flat-square"/>
 </p>
 
-> Combinatorial research as a Research Assistant at South Dakota State University, investigating monochromatic subgraphs, colorings, and partition regularity within Ramsey theory.
+Combinatorial research as a Research Assistant at South Dakota State University, investigating monochromatic subgraphs, colorings, and partition regularity within Ramsey theory.
+
+</details>
 
 ---
 
@@ -368,28 +354,5 @@
 </div>
 
 <br/>
-
-<details>
-<summary><b>Widget Setup</b> (click to expand — one-time setup for the live widgets above)</summary>
-<br/>
-
-This README wires up a few live, auto-updating widgets. Three need a small one-time setup on your end since they read from **your** accounts:
-
-1. **GitHub Stats / Streak / Top Langs / Activity Graph / Trophies** — these already work out of the box for `ernestwting`, no setup needed.
-
-2. **"Currently / Last Jammed Out To" badge** — powered by [spotify-github-profile](https://github.com/kittinan/spotify-github-profile):
-   - Visit `https://spotify-github-profile.vercel.app/api/login` and authorize with your Spotify account.
-   - Copy the `uid` you're given back and replace `REPLACE_WITH_YOUR_UID` in the image URL near the top of the "Last Jammed Out To" section.
-
-3. **All-Time / Monthly / Current Favorites table** — powered by [dxnter/lastfm-readme](https://github.com/dxnter/lastfm-readme), a GitHub Action that rewrites the content between the `<!--START_LASTFM_TRACKS-->`/`<!--END_LASTFM_TRACKS-->` comment markers on a schedule:
-   - Get a free Last.fm API key at [last.fm/api/account/create](https://www.last.fm/api/account/create).
-   - In this repo's **Settings -> Secrets and variables -> Actions**, add `LASTFM_API_KEY` and `LASTFM_USER`.
-   - Add the `dxnter/lastfm-readme` action to a workflow file (see its README for the exact YAML) pointed at this `README.md`.
-   - Under **Settings -> Actions -> General -> Workflow permissions**, enable "Read and write permissions" so the Action can commit updates.
-   - Once it runs, the three "Favorites" columns above will auto-refresh with your real listening data.
-
-If you'd rather skip the music section entirely, just delete the "Last Jammed Out To" block — everything else in this README is self-contained.
-
-</details>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
