@@ -35,7 +35,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/ernestwting?style=flat-square&logo=github&label=Followers&color=6272a4)](https://github.com/ernestwting?tab=followers)
 [![Public repos](https://img.shields.io/badge/dynamic/json?style=flat-square&logo=github&color=6272a4&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fernestwting)](https://github.com/ernestwting?tab=repositories)
-[![Total Commits](https://shields.io)](https://github.com/ernestwting)
+[![Total Commits](https://img.shields.io/badge/dynamic/json?style=flat-square&logo=github&color=6272a4&label=Total%20Commits&query=%24.total&url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3Dernestwting%26include_all_commits%3Dtrue)](https://github.com/ernestwting)
 
 <br/>
 
