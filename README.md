@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Ernest%20Ting&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Applied%20Computational%20Mathematics%20%26%20Economics%20@%20Caltech&descAlignY=58&descSize=18&descColor=c9c9d9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Ernest%20Ting&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Applied%20Computational%20Mathematics%20and%20Economics%20@%20Caltech&descAlignY=58&descSize=18&descColor=c9c9d9" width="100%"/>
 
 <a href="https://github.com/ernestwting">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=9AA3C9&center=true&vCenter=true&width=640&lines=Educational+Analytics+%26+Psychometrics;Item+Response+Theory+%7C+Rasch+Modeling;Multi-Agent+LLMs+for+Curriculum+Generation;Computational+Mathematics+%26+Statistics" alt="Typing SVG" />
@@ -8,10 +8,10 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernestwting/)
-[![Outlook](https://img.shields.io/badge/Email-eting%40caltech.edu-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:eting@caltech.edu)
-[![Streamlit](https://img.shields.io/badge/Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://interactive-analytics-stack-data.streamlit.app/)
-![Profile Views](https://komarev.com/ghpvc/?username=ernestwting&style=for-the-badge&color=6272a4&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernestwting/)
+[![Outlook](https://img.shields.io/badge/Email-eting%40caltech.edu-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:eting@caltech.edu)
+[![Streamlit](https://img.shields.io/badge/Live_App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://interactive-analytics-stack-data.streamlit.app/)
+![Profile Views](https://komarev.com/ghpvc/?username=ernestwting&style=flat-square&color=6272a4&label=PROFILE+VIEWS)
 
 </div>
 
@@ -19,7 +19,7 @@
 
 ## About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ernestwting&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=9AA3C9&icon_color=8be9fd&text_color=c9c9d9&count_private=true" width="47%"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ernestwting&show_icons=true&theme=tokyonight&hide_border=true&bg_color=transparent&title_color=9AA3C9&icon_color=8be9fd&text_color=c9c9d9&count_private=true" width="47%"/>
 
 - Studying **Applied Computational Mathematics & Economics** at **Caltech**
 - Building tools at the intersection of **psychometrics** (IRT, Rasch modeling), **educational analytics**, and **multi-agent LLM systems**
@@ -32,70 +32,16 @@
 
 ---
 
-## Tech Stack
-
-<div align="center">
-
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
-<img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<br/><br/>
-
-**Data Science, ML & Psychometrics**
-<br/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Item%20Response%20Theory-6A1B9A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Rasch%20Modeling-00897B?style=for-the-badge"/>
-
-<br/><br/>
-
-**Web, APIs & Cloud**
-<br/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Moodle%20API-F98012?style=for-the-badge&logo=moodle&logoColor=white"/>
-<img src="https://img.shields.io/badge/LTI%201.3-005A9C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-
-<br/><br/>
-
-**Automation, Reporting & Computational Math**
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/ReportLab-CC0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
-<img src="https://img.shields.io/badge/Maxima%20CAS-5C6BC0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge"/>
-
-</div>
-
----
-
 ## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernestwting&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=9AA3C9&text_color=c9c9d9&langs_count=8" height="200"/>
-<img src="https://streak-stats.demolab.com/?user=ernestwting&theme=tokyonight&hide_border=true&background=00000000&ring=8be9fd&fire=c9c17a&currStreakLabel=9AA3C9" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernestwting&layout=compact&theme=tokyonight&hide_border=true&bg_color=transparent&title_color=9AA3C9&text_color=c9c9d9&langs_count=8" height="200"/>
+<img src="https://streak-stats.demolab.com/?user=ernestwting&theme=tokyonight&hide_border=true&background=transparent&ring=8be9fd&fire=c9c17a&currStreakLabel=9AA3C9" height="200"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ernestwting&theme=tokyo-night&hide_border=true&bg_color=00000000&color=9AA3C9&line=8be9fd&point=c9c17a" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ernestwting&theme=tokyo-night&hide_border=true&bg_color=transparent&color=9AA3C9&line=8be9fd&point=c9c17a" width="95%"/>
 
 <br/>
 
@@ -116,7 +62,7 @@
 <br/>
 
 <p>
-<a href="https://github.com/ernestwting/moodle-local_stackquizanalytics.git"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/ernestwting/moodle-local_stackquizanalytics.git"><img src="https://img.shields.io/badge/My_Moodle_Plugin-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <img src="https://img.shields.io/github/last-commit/ernestwting/moodle-local_stackquizanalytics?style=flat-square&color=4c9aff&label=last%20commit"/>
 <img src="https://img.shields.io/badge/status-alpha-orange?style=flat-square"/>
 <img src="https://img.shields.io/badge/type-Moodle%20Plugin-6272a4?style=flat-square"/>
@@ -130,12 +76,12 @@ A single, self-contained Moodle plugin unifying four sections of analytics for S
 
 **Stack**
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Moodle%20API-F98012?style=for-the-badge&logo=moodle&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Analytics%20API-D2691E?style=for-the-badge"/><br/>
-<img src="https://img.shields.io/badge/Plotly.js-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/KaTeX-008080?style=for-the-badge"/><br/>
-<img src="https://img.shields.io/badge/TCPDF-C0392B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Moodle%20API-F98012?style=flat-square&logo=moodle&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Analytics%20API-D2691E?style=flat-square"/><br/>
+<img src="https://img.shields.io/badge/Plotly.js-3F4F75?style=flat-square&logo=plotly&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/KaTeX-008080?style=flat-square"/><br/>
+<img src="https://img.shields.io/badge/TCPDF-C0392B?style=flat-square"/>
 
 </td>
 <td width="74%" valign="top">
@@ -170,12 +116,12 @@ A two-model machine learning system for the Moodle Analytics API: one model pred
 
 **Stack**
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/php--ml-787CB5?style=for-the-badge&logo=php&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Analytics%20API-D2691E?style=for-the-badge"/><br/>
-<img src="https://img.shields.io/badge/IRT-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/php--ml-787CB5?style=flat-square&logo=php&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Analytics%20API-D2691E?style=flat-square"/><br/>
+<img src="https://img.shields.io/badge/IRT-6A1B9A?style=flat-square"/>
 
 </td>
 <td width="74%" valign="top">
@@ -210,10 +156,10 @@ Automated agent workflows that generate validated STACK questions and instructio
 
 **Stack**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Multi--Agent%20LLMs-16A085?style=for-the-badge"/><br/>
-<img src="https://img.shields.io/badge/Maxima%20CAS-5C6BC0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Multi--Agent%20LLMs-16A085?style=flat-square"/><br/>
+<img src="https://img.shields.io/badge/Maxima%20CAS-5C6BC0?style=flat-square"/>
 
 </td>
 <td width="74%" valign="top">
@@ -247,10 +193,10 @@ Extends standalone analytics directly into the Moodle LMS ecosystem as an embedd
 
 **Stack**
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Moodle%20API-F98012?style=for-the-badge&logo=moodle&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Moodle%20API-F98012?style=flat-square&logo=moodle&logoColor=white"/>
 
 </td>
 <td width="74%" valign="top">
@@ -283,12 +229,12 @@ An interactive web app that turns raw Moodle/STACK math assessment exports into 
 
 **Stack**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/ReportLab-CC0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/ReportLab-CC0000?style=flat-square"/>
 
 </td>
 <td width="74%" valign="top">
@@ -341,11 +287,55 @@ Combinatorial research as a Research Assistant at South Dakota State University,
 
 ---
 
+## Tech Stack
+
+<table>
+<tr><td><b>Languages</b></td><td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATLAB-FF6F00?style=flat-square&logo=mathworks&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</td></tr>
+<tr><td><b>Data Science, ML & Psychometrics</b></td><td>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Item%20Response%20Theory-6A1B9A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Rasch%20Modeling-00897B?style=flat-square"/>
+</td></tr>
+<tr><td><b>Web, APIs & Cloud</b></td><td>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Moodle%20API-F98012?style=flat-square&logo=moodle&logoColor=white"/>
+<img src="https://img.shields.io/badge/LTI%201.3-005A9C?style=flat-square"/>
+<img src="https://img.shields.io/badge/discord.py-5865F2?style=flat-square&logo=discord&logoColor=white"/>
+</td></tr>
+<tr><td><b>Automation, Reporting & Computational Math</b></td><td>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/ReportLab-CC0000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maxima%20CAS-5C6BC0?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenPyXL-217346?style=flat-square"/>
+</td></tr>
+</table>
+
+---
+
 ## Connect with Me
 
 <div align="center">
 
 * **Live App:** [interactive-analytics-stack-data.streamlit.app](https://interactive-analytics-stack-data.streamlit.app/)
+* **My Moodle Plugin:** [STACK q-type Analytics for Moodle](https://github.com/ernestwting/moodle-local_stackquizanalytics.git)
 * **Institution:** California Institute of Technology (Pasadena, CA)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernestwting/)
