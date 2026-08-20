@@ -35,7 +35,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/ernestwting?style=flat-square&logo=github&label=Followers&color=6272a4)](https://github.com/ernestwting?tab=followers)
 [![Public repos](https://img.shields.io/badge/dynamic/json?style=flat-square&logo=github&color=6272a4&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fernestwting)](https://github.com/ernestwting?tab=repositories)
-[![Total Contributions](https://github-readme-stats.vercel.app/api/badge/git-streak?user=ernestwting&theme=dracula&hide_border=true)](https://github.com/ernestwting)
+[![Total Contributions](https://img.shields.io/github/search?query=author%3Aernestwting&style=flat-square&logo=github&label=Contributions&color=6272a4)](https://github.com/ernestwting)
 
 <br/>
 
