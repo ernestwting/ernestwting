@@ -15,7 +15,6 @@
 
 </div>
 
-<br/>
 
 ## About Me
 
@@ -37,7 +36,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ernestwting&style=flat-square&color=6272a4&label=PROFILE+VIEWS)
 
 
-<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ernestwting&theme=tokyo-night&hide_border=true&bg_color=transparent&color=9AA3C9&line=8be9fd&point=c9c17a" width="95%"/>
 
@@ -351,6 +349,5 @@ Combinatorial research as a Research Assistant at South Dakota State University,
 
 </div>
 
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
