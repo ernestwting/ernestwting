@@ -272,9 +272,15 @@ Combinatorial research as a Research Assistant at South Dakota State University,
 
 ## Conference Presentations
 
-* **Poster Presentation:** *"Turning STACK Response Data into Insight"* – International STACK Conference, Nairobi, Kenya (July 2026)
-* **Slideshow Presentation:** *"Moodle/STACK Interactive Quiz Analytics"* – International STACK Conference, Nairobi, Kenya (July 2026)
-* **Academic Presentation:** *"The Big Lie: Distilling the Truth from Power"* – BHS Literary Conference (April 2025)
+<div align="center">
+
+**Poster Presentation:** *"Turning STACK Response Data into Insight"* – International STACK Conference, Nairobi, Kenya (July 2026)
+
+**Slideshow Presentation:** *"Moodle/STACK Interactive Quiz Analytics"* – International STACK Conference, Nairobi, Kenya (July 2026)
+
+**Academic Presentation:** *"The Big Lie: Distilling the Truth from Power"* – BHS Literary Conference (April 2025)
+
+</div>
 
 ---
 
@@ -332,9 +338,13 @@ Combinatorial research as a Research Assistant at South Dakota State University,
 
 <div align="center">
 
-* **Live App:** [interactive-analytics-stack-data.streamlit.app](https://interactive-analytics-stack-data.streamlit.app/)
-* **My Moodle Plugin:** [STACK q-type Analytics for Moodle](https://github.com/ernestwting/moodle-local_stackquizanalytics.git) · [Live on Moodle Marketplace](https://marketplace.moodle.com/plugins/3995/versions#plugin-tab-content)
-* **Institution:** California Institute of Technology (Pasadena, CA)
+**Live App:** [interactive-analytics-stack-data.streamlit.app](https://interactive-analytics-stack-data.streamlit.app/)
+
+**My Moodle Plugin:** [STACK q-type Analytics for Moodle](https://github.com/ernestwting/moodle-local_stackquizanalytics.git) · [Live on Moodle Marketplace](https://marketplace.moodle.com/plugins/3995/versions#plugin-tab-content)
+
+**Institution:** California Institute of Technology (Pasadena, CA)
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernestwting/)
 [![Outlook](https://img.shields.io/badge/Outlook-eting%40caltech.edu-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:eting@caltech.edu)
