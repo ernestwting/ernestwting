@@ -12,7 +12,6 @@
 [![Outlook](https://img.shields.io/badge/Email-eting%40caltech.edu-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:eting@caltech.edu)
 [![Streamlit](https://img.shields.io/badge/Live_App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://interactive-analytics-stack-data.streamlit.app/)
 [![Moodle Marketplace](https://img.shields.io/badge/Live_Plugin-Moodle_Marketplace-F98012?style=flat-square&logo=moodle&logoColor=white)](https://marketplace.moodle.com/plugins/3995/versions#plugin-tab-content)
-![Profile Views](https://komarev.com/ghpvc/?username=ernestwting&style=flat-square&color=6272a4&label=PROFILE+VIEWS)
 
 </div>
 
@@ -35,7 +34,8 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/ernestwting?style=flat-square&logo=github&label=Followers&color=6272a4)](https://github.com/ernestwting?tab=followers)
 [![Public repos](https://img.shields.io/badge/dynamic/json?style=flat-square&logo=github&color=6272a4&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fernestwting)](https://github.com/ernestwting?tab=repositories)
-[![Total Contributions](https://github-readme-stats.vercel.app/api/badge/git-streak?user=ernestwting&theme=dracula&hide_border=true)](https://github.com/ernestwting)
+![Profile Views](https://komarev.com/ghpvc/?username=ernestwting&style=flat-square&color=6272a4&label=PROFILE+VIEWS)
+
 
 <br/>
 
