@@ -44,6 +44,11 @@
 
 <sub>Note: the language breakdown and trophy widgets were pulled — both are hosted on free, shared community services that frequently hit GitHub's API rate limit and throw "error fetching resource." Your languages are already covered in the Tech Stack section below. If the activity graph above also breaks at some point, it's the same underlying issue and can safely be removed too.</sub>
 
+</div>
+
+[![Your GitHub Stats](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ---
 
 ## Featured Research & Projects
