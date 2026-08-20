@@ -33,17 +33,16 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernestwting&layout=compact&theme=tokyonight&hide_border=true&bg_color=transparent&title_color=9AA3C9&text_color=c9c9d9&langs_count=8" height="200"/>
+[![GitHub followers](https://img.shields.io/github/followers/ernestwting?style=flat-square&logo=github&label=Followers&color=6272a4)](https://github.com/ernestwting?tab=followers)
+[![Public repos](https://img.shields.io/badge/dynamic/json?style=flat-square&logo=github&color=6272a4&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fernestwting)](https://github.com/ernestwting?tab=repositories)
 
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ernestwting&theme=tokyo-night&hide_border=true&bg_color=transparent&color=9AA3C9&line=8be9fd&point=c9c17a" width="95%"/>
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ernestwting&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="95%"/>
-
 </div>
+
+<sub>Note: the language breakdown and trophy widgets were pulled — both are hosted on free, shared community services that frequently hit GitHub's API rate limit and throw "error fetching resource." Your languages are already covered in the Tech Stack section below. If the activity graph above also breaks at some point, it's the same underlying issue and can safely be removed too.</sub>
 
 ---
 
