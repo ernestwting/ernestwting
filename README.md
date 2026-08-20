@@ -42,11 +42,13 @@
 
 </div>
 
+<sub>Note: the language breakdown and trophy widgets were pulled — both are hosted on free, shared community services that frequently hit GitHub's API rate limit and throw "error fetching resource." Your languages are already covered in the Tech Stack section below. If the activity graph above also breaks at some point, it's the same underlying issue and can safely be removed too.</sub>
 
 ---
 
 ## Featured Research & Projects
 
+<sub>Click a project to expand it.</sub>
 
 <br/>
 
@@ -287,6 +289,7 @@ Combinatorial research as a Research Assistant at South Dakota State University,
 <tr><td><b>Languages</b></td><td>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/>
@@ -296,10 +299,12 @@ Combinatorial research as a Research Assistant at South Dakota State University,
 <tr><td><b>Data Science, ML & Psychometrics</b></td><td>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/php--ml-787CB5?style=flat-square&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Multi--Agent%20LLMs-16A085?style=flat-square"/>
 <img src="https://img.shields.io/badge/Item%20Response%20Theory-6A1B9A?style=flat-square"/>
 <img src="https://img.shields.io/badge/Rasch%20Modeling-00897B?style=flat-square"/>
 </td></tr>
@@ -308,7 +313,10 @@ Combinatorial research as a Research Assistant at South Dakota State University,
 <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/Moodle%20API-F98012?style=flat-square&logo=moodle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Moodle%20Analytics%20API-D2691E?style=flat-square"/>
 <img src="https://img.shields.io/badge/LTI%201.3-005A9C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Plotly.js-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/KaTeX-008080?style=flat-square"/>
 <img src="https://img.shields.io/badge/discord.py-5865F2?style=flat-square&logo=discord&logoColor=white"/>
 </td></tr>
 <tr><td><b>Automation, Reporting & Computational Math</b></td><td>
@@ -316,6 +324,7 @@ Combinatorial research as a Research Assistant at South Dakota State University,
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
 <img src="https://img.shields.io/badge/ReportLab-CC0000?style=flat-square"/>
+<img src="https://img.shields.io/badge/TCPDF-C0392B?style=flat-square"/>
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
 <img src="https://img.shields.io/badge/Maxima%20CAS-5C6BC0?style=flat-square"/>
 <img src="https://img.shields.io/badge/OpenPyXL-217346?style=flat-square"/>
