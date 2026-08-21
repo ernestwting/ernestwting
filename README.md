@@ -21,7 +21,6 @@
 - Studying **Applied Computational Mathematics & Economics** at **Caltech**
 - Building tools at the intersection of **psychometrics** (IRT, Rasch modeling), **educational analytics**, and **multi-agent LLM systems**
 - Currently deep in the **Moodle / STACK (Maxima CAS)** ecosystem — analytics plugins, ML diagnostics, and agentic question generation
-- Presented at the **International STACK Conference**, Nairobi, Kenya (July 2026)
 - Always tinkering with something new in psychometric modeling or agent workflows
 - Reach me at **eting@caltech.edu**
 
